@@ -1,0 +1,6 @@
+{
+"parent":"minecraft:block/cube_all",
+"textures":{
+"all":"waynav:block/waypoint_stone"
+} 
+}
