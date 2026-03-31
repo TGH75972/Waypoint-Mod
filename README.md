@@ -2,7 +2,7 @@
 <b>
 Features of the mod -
 <br>
-1. This mods add a minimap to the game with the location of the player and the waypoint marked on that minimap, players can open minimap by pressing M key.
-2. People can change the markers of their waypoint by shift+right clicking their waypoint to avoid confusion.
+1. This mods add a minimap to the game with the location of the player and the waypoint marked on that minimap, players can open minimap by pressing M key.<br>
+2. People can change the markers of their waypoint by shift+right clicking their waypoint to avoid confusion.<br>
 3. The waypoints function like beacons in the game but connected to a minimap and if the player removes them, they get removed from the minimap as well.
 </b>
